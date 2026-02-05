@@ -26,7 +26,7 @@ L'objectif est de comprendre:
 
 ## Prérequis
 
-- PHP >= 8.1
+- PHP >= 8.xx
 - Composer
 - MySQL >= 8.0
 - Git
@@ -144,7 +144,7 @@ Ce projet est un prototype d'apprentissage personnel. Les contributions ne sont 
 
 ## Auteur
 
-Votre nom
+S.R Steavens
 
 ## Licence
 
